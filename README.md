@@ -1,4 +1,5 @@
-# Facial-Recognition
+# Face ID
+## Created a custom facial recognition model
 
 Created a Siamese Convolutional Nerual Network for one shot learning of facial features. Implemented from this paper: https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
