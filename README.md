@@ -4,7 +4,7 @@
 
 For this project, I created a Siamese Convolutional Nerual Network for one shot learning of facial features. Implemented the model in accordance to this paper: https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
-![streamlit dashboard screenshow](/resources/ss_streamlit.png "streamlit dashboard screenshow").
+![streamlit dashboard screenshot](/resources/ss_streamlit.png "streamlit dashboard screenshot").
 
 ## How it works
 
