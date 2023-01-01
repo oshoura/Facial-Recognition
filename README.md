@@ -11,7 +11,7 @@ For this project, I created a Siamese Convolutional Nerual Network for one shot 
 The idea behind it is simple. I trained two embedding networks with the same weights that are connected by a distance layer. 
 In tandem, they embedd two images using a 6 layer CNN. Then a distance layer takes both embeddings and determines if they are the same class or not i.e. the same person. If the two pictures are similar, the model will return 1, otherwise it will return 0.
 
-This model was trained by myself, on the [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) dataset collected by umass Amherst, and a set of pictures of myself that I collected. The data to train this model, must be in the form of 2 photos and a label of 1 or 0 to inform the model if these are the same face or not. A positive or a negative photo is paired up with an anchor photo. An anchor photo is what the model compares the other picture to. For the purpose of our data set, a positive photo is a picture of myself while a negative photo is taken from the external data set. I have 500 positive, and 500 negative examples.
+This model was trained by myself, on the [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) dataset collected by Umass Amherst, and a set of pictures of myself that I collected. The data to train this model, must be in the form of 2 photos and a label of 1 or 0 to inform the model if these are the same face or not. A positive or a negative photo is paired up with an anchor photo. An anchor photo is what the model compares the other picture to. For the purpose of our data set, a positive photo is a picture of myself while a negative photo is taken from the external data set. I have 500 positive, and 500 negative examples.
 
 
 
