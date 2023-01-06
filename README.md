@@ -24,6 +24,15 @@ To run this streamlit, you must have these in your directory:
 - folder called verification_data with the provided pictures of myself (in repo)
 - `siamese_model.h5` file which contains the model itself
 
+## Outcomes
+From this project, I gained a lot of confidence working on deep learning project. It was my first deep learnign project, and I was 
+intimidaded at first but I found it quite straight forward. I can now take this experience and apply it to other Computer Vision or NLP projects I have in mind and know that I can get it done.
+
+This was also my first time using Tensorflow and I learned a lot about how the library works and features of it. I wrote my own layer in a neural network.
+
+I hadn't built a neural net before so that in itself was a learnign experience and figureing out how to read the paper and follow it.
+
+Finally, I got a better idea of the type of data these models require and how to look for good data in the future. I certainly plan on revisiting this project and brining some better data.
 
 ## What can be improved
 There is a lot I can do to improve this model and the experience as a whole. Here is an unordered list of what I would like to work on next
